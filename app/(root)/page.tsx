@@ -1,3 +1,4 @@
+"use clinet";
 
 import { navLinks } from "@/constants"
 

@@ -1,3 +1,5 @@
+"use client";
+
 import MobileNav from "@/components/shared/MobileNav"
 import Sidebar from "@/components/shared/Sidebar"
 
@@ -19,3 +21,4 @@ function Layout({ children}: {children :React.ReactNode}) {
   }
   
   export default Layout
+  
