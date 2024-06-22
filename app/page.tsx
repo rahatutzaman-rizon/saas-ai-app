@@ -1,4 +1,4 @@
-"use client";
+
 import MobileNav from "@/components/shared/MobileNav";
 import Sidebar from "@/components/shared/Sidebar";
 import { UserButton } from "@clerk/nextjs";

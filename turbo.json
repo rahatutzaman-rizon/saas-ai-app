@@ -1,0 +1,11 @@
+{
+    "extends": ["//"],
+    "tasks": {
+
+      "topo": {},
+    
+      "lint:prettier": {
+        "inputs": []
+      }
+    }
+  }
